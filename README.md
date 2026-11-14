@@ -14,4 +14,5 @@ The page contains one card with:
 4. Email and hobby : ta5473469@gmail.com
 5. Livil : 1
 ## Live Page
-The link will be added later
+https://turkiawadh.github.io/kku-111ifs-lab1/
+city : Tanumah
